@@ -105,7 +105,7 @@ export default {
                     <div class="dark-bg">
                     <h2>Changelog:</h2>
                     <br>
-                    <p class="extended">February 13 2024</p>
+                    <p class="extended">April 7th, 2024</p>
                     <br><br>
                     <p><button class="btn-no-cover" @click="selected = 113">spin move</button> has been placed at <b>#68</b>, above Descend and below Dude Careful Its Hot.<br><br>This change pushes xStep Remake into the Legacy list.</p>
                     </div>
