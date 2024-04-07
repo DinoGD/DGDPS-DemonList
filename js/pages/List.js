@@ -107,7 +107,7 @@ export default {
                     <br>
                     <p class="extended">February 13 2024</p>
                     <br><br>
-                    <p><button class="btn-no-cover" @click="selected = 113">Khaotic Planet</button> has been placed at <b>#114</b>, above crestfallen and below Chromatic Meteor.<br><br>This change pushes DirtyPaws into the Legacy list.</p>
+                    <p><button class="btn-no-cover" @click="selected = 113">spin move</button> has been placed at <b>#68</b>, above Descend and below Dude Careful Its Hot.<br><br>This change pushes xStep Remake into the Legacy list.</p>
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>
@@ -132,7 +132,7 @@ export default {
                         <iframe class="discord-box" src="https://discord.com/widget?id=866826240476053514&theme=dark" width="270" height="300" allowtransparency="false" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
                     </div>
                     <div class="og" class="dark-bg">
-                        <p>All credit goes to <a href="https://tsl.pages.dev/#/" target="_blank">TSL</a>, whose website this is a replica of. We obtained permission from its owners and have no connection to TSL. Original List by <a href="https://me.redlimerl.com/" target="_blank">RedLime</a></p>
+                        <p>All credit goes to <a href="https://tsl.pages.dev/#/" target="_blank">TSL</a>, whose website this is a replica of. We obtained permission from its owners and have no connection to TSL. Credits also goes to <a href="https://www.youtube.com/@tTAL9988" target="_blank">TAL9988</a> for letting us use his Demon List Template. Original List by <a href="https://me.redlimerl.com/" target="_blank">RedLime</a></p>
                     </div>
                     <button class="btngl" @click="selected = 0">#1 Demon</button>
                     <button class="btngl" @click="selected = 75">Extended</button>
