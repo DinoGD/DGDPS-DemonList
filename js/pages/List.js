@@ -133,11 +133,6 @@ export default {
                     </div>
                     <div class="og" class="dark-bg">
                         <p>All credit goes to <a href="https://tsl.pages.dev/#/" target="_blank">TSL</a>, whose website this is a replica of. We obtained permission from its owners and have no connection to TSL. Credits also goes to <a href="https://www.youtube.com/@tTAL9988" target="_blank">TAL9988</a> for letting us use his Demon List Template. Original List by <a href="https://me.redlimerl.com/" target="_blank">RedLime</a></p>
-                    </div>
-                    <button class="btngl" @click="selected = 0">#1 Demon</button>
-                    <button class="btngl" @click="selected = 75">Extended</button>
-                    <button class="btngl" @click="selected = 150">Legacy</button>
-                </div>
             </div>
         </main>
     `,
