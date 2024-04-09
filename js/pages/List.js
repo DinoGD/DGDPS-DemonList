@@ -134,8 +134,7 @@ export default {
                     <div class="og" class="dark-bg">
                         <p>All credit goes to <a href="https://tsl.pages.dev/#/" target="_blank">TSL</a>, whose website this is a replica of. We obtained permission from its owners and have no connection to TSL. Original List by <a href="https://me.redlimerl.com/" target="_blank">RedLime.</a></p>
                     <div class="og" class="dark-bg">     
-                    </div>
-                    </div>   
+                    </div>  
                     <div class="og" class="dark-bg">                    
                         <p>Thank you to <b><a href="https://www.youtube.com/@tTAL9988" target="_blank">TAL9988</a></b> for letting us use his Demon List Template.</p>
                     </div>
