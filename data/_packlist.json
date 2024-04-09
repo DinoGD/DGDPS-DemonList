@@ -32,7 +32,7 @@
             "fin_x",
             "stress"       
         ],
-        "colour": "#ffa60d"
+        "colour": "#00bbff"
     }, 
     {   
         "name": "Top 1",
@@ -41,6 +41,6 @@
             "casual", 
             "silentfunk"        
         ],
-        "colour": "#f6ff00"
+        "colour": "#ffa600"
     }    
 ]
