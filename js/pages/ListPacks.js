@@ -89,6 +89,7 @@ export default {
                     </div>
                     <h3>Credits:</h3>
                     <p><a href="https://youtube.com/@krisgra" target="_blank">KrisGra</a></p>
+                    <p><a href="https://www.youtube.com/@tTAL9988" target="_blank">TAL9988</a></p>                    
                 </div>
             </div>
         </main>
