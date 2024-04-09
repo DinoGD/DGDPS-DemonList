@@ -1,9 +1,22 @@
 [
     {   
-        "name": "Silent",
+        "name": "Hell",
         "levels": [
-            "silentfunk"
+            "the_hell_hell",
+            "the_hell_dino",
+            "the_hell_pegs"
         ],
-        "colour": "#ff0000"
-    }
+        "colour": "linear-gradient(to bottom, #ff0000 0%, #1a0000 100%)"
+    }, 
+    {   
+        "name": "Hell II",
+        "levels": [
+            "perseus",
+            "death_circlex",
+            "hellios",
+            "infernal_auroras",
+            "deathmath"        
+        ],
+        "colour": "linear-gradient(to bottom, #ff0000 0%, #540202 100%)"
+    }   
 ]
