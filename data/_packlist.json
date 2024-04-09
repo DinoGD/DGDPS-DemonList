@@ -2,7 +2,7 @@
     {   
         "name": "Silent",
         "levels": [
-            "silentfunk",
+            "silentfunk"
         ],
         "colour": "linear-gradient(to bottom, #fefb22 0%, #12ecec 100%)"
     }
