@@ -1,4 +1,11 @@
 [
+     {   
+        "name": "Silent",
+        "levels": [
+            "silentfunk"
+        ],
+        "colour": "#ff0000"
+    },    
     {   
         "name": "Hell",
         "levels": [
