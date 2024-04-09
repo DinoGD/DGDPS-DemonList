@@ -1,10 +1,8 @@
 [
     {   
-        "name": "2.0",
+        "name": "Silent",
         "levels": [
-            "supar_list_demom",
-            "destruction",
-            "swift_current"
+            "silentfunk",
         ],
         "colour": "linear-gradient(to bottom, #fefb22 0%, #12ecec 100%)"
     },
