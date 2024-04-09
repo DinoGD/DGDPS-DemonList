@@ -137,7 +137,7 @@ export default {
                     <div class="og" class="dark-bg">     
                     </div> 
                         <p>Thank you to <b><a href="https://www.youtube.com/@tTAL9988" target="_blank">TAL9988</a></b> for letting us use his Demon List Template.</p>
-            </div>
+                    </div>
         </main>
     `,
     data: () => ({
