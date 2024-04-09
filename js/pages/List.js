@@ -132,7 +132,7 @@ export default {
                         <iframe class="discord-box" src="https://discord.com/widget?id=866826240476053514&theme=dark" width="270" height="300" allowtransparency="false" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
                     </div>                  
                     <div class="og" class="dark-bg">                    
-                        <p>All credit goes to <b><a href="https://tsl.pages.dev/#/" target="_blank">TSL</a><b/>, whose website this is a replica of. We obtained permission from its owners and have no connection to TSL. Original List by <b><a href="https://me.redlimerl.com/" target="_blank">RedLime.</a></b></p>
+                        <p>All credit goes to <b><a href="https://tsl.pages.dev/#/" target="_blank">TSL</a></b>, whose website this is a replica of. We obtained permission from its owners and have no connection to TSL. Original List by <b><a href="https://me.redlimerl.com/" target="_blank">RedLime.</a></b></p>
                     </div>                         
                      <div class="og" class="dark-bg">
                         <p>Thank you to <b><a href="https://www.youtube.com/@tTAL9988" target="_blank">TAL9988</a></b> for letting us use his Demon List Template.</p>                     
