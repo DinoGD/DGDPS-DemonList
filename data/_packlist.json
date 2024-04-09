@@ -25,5 +25,22 @@
             "deathmath"        
         ],
         "colour": "linear-gradient(to bottom, #ff0000 0%, #540202 100%)"
-    }   
+    },
+    {   
+        "name": "Layout",
+        "levels": [
+            "fin_x",
+            "stress"       
+        ],
+        "colour": "#00bbff"
+    }, 
+    {   
+        "name": "Top 1",
+        "levels": [
+            "luminescent", 
+            "casual", 
+            "silentfunk"        
+        ],
+        "colour": "#f6ff00"
+    }    
 ]
