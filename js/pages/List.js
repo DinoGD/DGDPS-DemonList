@@ -107,7 +107,7 @@ export default {
                     <br>
                     <p class="extended">April 7th, 2024</p>
                     <br><br>
-                    <p><button class="btn-no-cover" @click="selected = 67">spin move</button> has been placed at <b>#68</b>, above Descend and below Dude Careful Its Hot.<br><br>This change pushes <b>xStep Remake</b> into the Legacy list.</p>
+                    <p><button class="btn-no-cover" @click="selected = 1">VioLence</button> has been placed at <b>#2</b>, above Casual and below Luminescent.
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>
