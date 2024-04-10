@@ -49,5 +49,12 @@
             "troll_circles"          
         ],
         "colour": "#ed00fa"
-    }     
+    },
+    {   
+        "name": "Travel",
+        "levels": [
+            "nickelback_travel"          
+        ],
+        "colour": "#575757"
+    }       
 ]
