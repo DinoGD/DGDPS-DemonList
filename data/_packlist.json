@@ -56,5 +56,12 @@
             "nickelback_travel"          
         ],
         "colour": "#828282"
-    }       
+    },
+    {   
+        "name": "Memory",
+        "levels": [
+            "nickelback_travel"          
+        ],
+        "colour": "linear-gradient(to right, #444446 0%, #09ff00 100%)"
+    }      
 ]
