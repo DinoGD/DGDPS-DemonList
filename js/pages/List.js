@@ -105,7 +105,7 @@ export default {
                     <div class="dark-bg">
                     <h2>Changelog:</h2>
                     <br>
-                    <p class="extended">April 7th, 2024</p>
+                    <p class="extended">April 10th, 2024</p>
                     <br><br>
                     <p><button class="btn-no-cover" @click="selected = 1">VioLence</button> and <button class="btn-no-cover" @click="selected = 2">Casual</button> have been swapped. Casual is now at the <b>#3</b> while VioLence sits at the <b>#2</b> spot.
                     </div>
