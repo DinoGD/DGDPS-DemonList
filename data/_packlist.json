@@ -62,6 +62,6 @@
         "levels": [
             "nickelback_travel"          
         ],
-        "colour": "linear-gradient(to right, #444446 0%, #09ff00 100%)"
+        "colour": "linear-gradient(to right, #e1ff00 0%, #09ff00 100%)"
     }      
 ]
