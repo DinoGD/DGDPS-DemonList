@@ -107,7 +107,7 @@ export default {
                     <br>
                     <p class="extended">April 7th, 2024</p>
                     <br><br>
-                    <p><button class="btn-no-cover" @click="selected = 1">VioLence</button> has been placed at <b>#2</b>, above Casual and below Luminescent.
+                    <p><button class="btn-no-cover" @click="selected = 1">VioLence</button> and <button class="btn-no-cover" @click="selected = 2">Casual</button> have been swapped. <b>#2</b>. Casual is now at the <b>#3</b> while VioLence sits at the <b>#2</b> spot.
                     </div>
                     <div class="dark-bg">
                     <h2>Guidelines</h2>
