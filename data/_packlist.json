@@ -42,5 +42,19 @@
             "silentfunk"        
         ],
         "colour": "#ffa600"
-    }    
+    },
+    {   
+        "name": "Circles",
+        "levels": [
+            "death_circlex", 
+            "gates_of_the_gods", 
+            "figures_v2", 
+            "joshdeluxe_burger_redux",  
+            "npasta_meatball",    
+            "scatman_circles",    
+            "aquatic_circles",
+            "troll_circles",             
+        ],
+        "colour": "linear-gradient(to bottom, #fffb00 0%, #80ff00 100%)"
+    }     
 ]
