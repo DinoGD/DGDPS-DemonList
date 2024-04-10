@@ -55,6 +55,6 @@
             "aquatic_circles",
             "troll_circles"          
         ],
-        "colour": "linear-gradient(to bottom, #ffae00 0%, #9dff00 100%)"
+        "colour": "linear-gradient(to bottom, #ffae00 0%, #fbff00 100%)"
     }     
 ]
