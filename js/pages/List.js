@@ -129,7 +129,7 @@ export default {
                         </ol>
                     </div>
                     <div class="og">
-                        <iframe class="discord-box" src="https://discord.com/widget?id=866826240476053514&theme=dark" width="270" height="300" allowtransparency="false" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+                        <iframe class="discord-box" src="https://discord.com/widget?id=1130407463179518015&theme=dark" width="270" height="300" allowtransparency="false" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
                     </div>                  
                     <div class="og" class="dark-bg">                    
                         <p>All credit goes to <b><a href="https://tsl.pages.dev/#/" target="_blank">TSL</a></b>, whose website this is a replica of. We obtained permission from it's owners and have no connection to TSL. Original List by <b><a href="https://me.redlimerl.com/" target="_blank">RedLime.</a></b></p>
