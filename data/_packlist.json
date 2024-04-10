@@ -60,7 +60,13 @@
     {   
         "name": "Memory",
         "levels": [
-            "nickelback_travel"          
+            "cubed",
+            "skystrike_rebirth",   
+            "buffstep_but_harder",     
+            "torture_chamber",    
+            "fake_a_diego",   
+            "blackout",     
+            "the_hell_hell"              
         ],
         "colour": "linear-gradient(to right, #e1ff00 0%, #09ff00 100%)"
     }      
