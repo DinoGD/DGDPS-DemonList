@@ -24,7 +24,7 @@
             "infernal_auroras",
             "deathmath"        
         ],
-        "colour": "linear-gradient(to bottom, #ff0000 0%, #540202 100%)"
+        "colour": "linear-gradient(to bottom, #ff0000 0%, #8f0000 100%)"
     },
     {   
         "name": "Layout",
