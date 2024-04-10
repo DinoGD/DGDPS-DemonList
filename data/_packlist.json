@@ -53,7 +53,7 @@
             "npasta_meatball",    
             "scatman_circles",    
             "aquatic_circles",
-            "troll_circles",             
+            "troll_circles"          
         ],
         "colour": "linear-gradient(to bottom, #fffb00 0%, #80ff00 100%)"
     }     
