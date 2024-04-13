@@ -9,5 +9,11 @@
     "percentToQualify": 100,
     "difficulty": "Easy Demon",    
     "records": [
+      {
+        "user": "ZonerG",
+        "link": "https://www.youtube.com/watch?v=gwbysQ72SDo&ab_channel=ZonerBootleg",
+        "hz": 240,
+        "percent": 100
+      }    
     ]
 }
