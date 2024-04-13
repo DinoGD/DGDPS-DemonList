@@ -16,11 +16,17 @@
           "hz": 71,
           "percent": 100
       },
-        {
+      {
           "user": "SAINT NICHOLE",
           "link": "https://www.youtube.com/watch?v=P3OWBesW6kg",
           "hz": 240,
           "percent": 100
-     }
+      },
+      {
+          "user": "plastic",
+          "link": "https://youtu.be/X66-oPrJpQY",
+          "hz": 280,
+          "percent": 100
+      }        
     ]
 }
