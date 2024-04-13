@@ -10,11 +10,17 @@
     "percentToQualify": 68,
     "difficulty": "Extreme Demon",    
     "records": [  
-      {
+        {
+        "user": "TheRealCave",
+        "link": "https://drive.google.com/file/d/1D-6tG_W_AknaQbPmQTyZya8bbkMFaHn7/view?usp=sharing",
+        "hz": 240,
+        "percent": 81
+        },         
+        {
         "user": "spino",
         "link": "https://youtu.be/xb0eng02fo0",
         "hz": 144,
         "percent": 71
-      }         
+        }         
     ]
 }
