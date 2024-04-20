@@ -71,5 +71,19 @@
             "antigeometry"          
         ],
         "colour": "linear-gradient(to right, #e1ff00 0%, #09ff00 100%)"
-    }      
+    },
+    {   
+        "name": "CAPS",
+        "levels": [
+            "perseus",
+            "vibrant_frenzy",   
+            "EULOGY",     
+            "ligm8o",    
+            "bleach",   
+            "jerk",     
+            "blaster",
+            "grolilla2"          
+        ],
+        "colour": "#4903fc"
+    }       
 ]
